@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cricket Counter</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+    <string name="teama_init_score">0</string>
+    <string name="dotball">Dot Ball</string>
+    <string name="onerun">1 Run</string>
+    <string name="tworun">2 Run</string>
+    <string name="threerun">3 Run</string>
+    <string name="fourrun">4 Run</string>
+    <string name="sixrun">Sixer</string>
+    <string name="widenoball">Wide/No Ball</string>
+    <string name="wicket">Wicket</string>
+    <string name="score">Score</string>
+    <string name="overs">Overs</string>
+    <string name="reset">Reset</string>
+
+
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
